@@ -4,7 +4,9 @@
 
 "Futurify" is an innovative Predictive Consumer Insights Platform that leverages advanced AI-driven predictive analytics to decode current consumer behaviour and project future trends. By amalgamating sophisticated data analysis with cutting-edge machine learning techniques, Futurify empowers businesses to anticipate shifting consumer preferences. This platform not only enhances strategic decision-making but also enables targeted marketing campaigns that resonate with upcoming customer behaviours. Embracing Futurify allows enterprises to proactively adapt and cater to the dynamic landscape of consumer preferences, thereby gaining a competitive edge in the market.
 
-![WhatsApp Image 2023-09-15 at 23 46 51](https://github.com/vividha09/Futurify/assets/11![WhatsApp Image 2023-09-15 at 23 47 15](https://github.com/vividha09/Futurify/assets/110150230/3b2d33ae-5652-4166-bdab-a01accfb96f9)
+![WhatsApp Image 2023-09-15 at 23 46 51](https://github.com/vividha09/Futurify/assets/11![WhatsApp Image 2023-09-15 at 23 47 15]
+
+(https://github.com/vividha09/Futurify/assets/110150230/3b2d33ae-5652-4166-bdab-a01accfb96f9)
 0150230/8dd3daf8-1304-48d3-a6a7-64f1ab55ec74)
 
 ![WhatsApp Image 2023-09-15 at 23 51 55](https://github.com/vividha09/Futurify/assets/110150230/c466ec27-d411-4fb5-8f4d-61fced8dfe6f)
